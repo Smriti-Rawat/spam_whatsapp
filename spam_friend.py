@@ -1,9 +1,7 @@
 
-
-### configurations
 number_of_times = 100
 name = 'Raja'
-message = 'just checking'
+message = 'hi there sup!!'
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
